@@ -1,0 +1,11 @@
+#menu{
+    float: left;
+    background-color: #dddddd;
+    border: solid 1px;
+}
+canvas{
+    float: left;
+}
+.cbEdges{
+    float: left;
+}
